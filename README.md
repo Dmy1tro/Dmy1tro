@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/iZ22oZ8Xi3gAAAAd/cat-dance.gif)](https://github.com/Dmy1tro)
+![sticker_10](https://github.com/Dmy1tro/Dmy1tro/assets/48723729/005f1557-05f2-4676-8a09-69d96fda73a9)
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
 <h3 align="center">.NET + Angular developer</h3>
 <img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJXCfWtDYZWplIAAFkXa-Vn-6bTyMDoUxyUSkZmBa_ly1kfLcv-QsQa0w-Fs-arAyJi8&usqp=CAU">

@@ -1,4 +1,4 @@
-[![MasterHead](https://s3.getstickerpack.com/storage/uploads/sticker-pack/funny-meme-gif-pack-small-version/sticker_10.gif?b353a73c46798a7e57d4b083aac5390b)](https://github.com/Dmy1tro)
+[![MasterHead](https://media.tenor.com/iZ22oZ8Xi3gAAAAd/cat-dance.gif)](https://github.com/Dmy1tro)
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
 <h3 align="center">.NET + Angular developer</h3>
 <img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJXCfWtDYZWplIAAFkXa-Vn-6bTyMDoUxyUSkZmBa_ly1kfLcv-QsQa0w-Fs-arAyJi8&usqp=CAU">

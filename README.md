@@ -18,5 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmy1tro&show_icons=true&locale=en&include_all_commits=true&theme=dark" alt="dmy1tro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmy1tro&theme=dark" alt="dmy1tro" /></p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dmy1tro&repo=CustomMoq&theme=dark)](https://github.com/Dmy1tro/CustomMoq)
